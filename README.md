@@ -1,4 +1,5 @@
 # Hola, soy Ernesto
+<img src = "BannerGH.png">
 <!--
 **e-garcias/e-garcias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
