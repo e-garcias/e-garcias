@@ -1,5 +1,4 @@
-## Hi there 👋
-
+# Hola, soy Ernesto
 <!--
 **e-garcias/e-garcias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+* Tengo formación técnica multidisciplinaria con perfiles de Ing. Electrónica, Eléctrica y Óptica.
+* Actualmente trabajo como Docente en la Universidad de Guanajuato donde apoyo con cursos relacionados con la carrera de Sistemas Computacionales.
+* Me agrada programar y tengo especial interés por el procesamiento de imágenes, así como por la implementación de algoritmos de reconocimiento de patrones.  
+* Actualmente estoy realizando el curso de Data Science con Tripleten, donde llevo alrededor del 60% de avance.
