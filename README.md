@@ -1,5 +1,11 @@
 # Hola, soy Ernesto
 <img src = "BannerGH.png">
+<ul>
+  <li> Tengo un perfil técnico multidisciplinario centrado en áreas tecnológicas de la Ing. Eléctrica con gusto por la programación.</li>
+  <li> Actualmente trabajo como Docente en la Universidad de Guanajuato donde apoyo con cursos relacionados con la carrera de Sistemas Computacionales.</li>  
+  <li> Actualmente estoy realizando el curso de Data Science con Tripleten, donde llevo alrededor del 60% de avance.</li>
+  <li> Tengo especial interés por el procesamiento de imágenes, así como por la implementación de algoritmos de reconocimiento de patrones.</li>
+</ul>
 <!--
 **e-garcias/e-garcias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-* Tengo un perfil técnico multidisciplinario centrado en áreas tecnológicas de la Ing. Eléctrica con gusto por la programación.
-* Actualmente trabajo como Docente en la Universidad de Guanajuato donde apoyo con cursos relacionados con la carrera de Sistemas Computacionales.  
-* Actualmente estoy realizando el curso de Data Science con Tripleten, donde llevo alrededor del 60% de avance.
-* Tengo especial interés por el procesamiento de imágenes, así como por la implementación de algoritmos de reconocimiento de patrones.
+
