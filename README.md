@@ -1,5 +1,5 @@
 # Hola, soy Ernesto
-<img src = "BannerGH.png">
+<img src = "BannerLN.png">
 <ul>
   <li> Tengo un perfil técnico multidisciplinario centrado en áreas tecnológicas de la Ing. Eléctrica con gusto por la programación.</li>
   <li> Actualmente trabajo como Docente en la Universidad de Guanajuato donde apoyo con cursos relacionados con la carrera de Sistemas Computacionales.</li>  
