@@ -14,6 +14,7 @@
   <li> Lenguaje C</li>
   <li> MATLAB </li>
   <li> Microcontroladores </li>
+  <li> Octave </li>
   </ul>
 <p>
 <hr>
@@ -21,14 +22,14 @@
   <ul>
   <li> Actualmente estoy realizando el curso de Data Science con Tripleten, donde llevo alrededor del 60% de avance.</li>
   <li> Tengo especial interés por el procesamiento de señales e imágenes, así como por la implementación de algoritmos de reconocimiento de patrones.</li>
-   <li>COMPLEMENTAR UN POCO MÁS </li>
   </ul>
 <p>
 <hr>
-<p> <b>🌱 Objetivo 2025-2026 </b>
+<p> <B>✨ Objetivo 2025-2026 </B>
   <ul>
   <li> Terminar mi entrenamiento como científico de datos y explotarlo en mi actividad actual.</li>
   <li> Incorporarme al mundo Tech mediante el desarrollo de proyectos orientados a Data Science y Machine Learning.</li>
+  <li> Reactivar mi actividad relacionada con actividades de divulgación y publicaciones técnicas/científicas.</li>
   </ul>
 <p>
   
